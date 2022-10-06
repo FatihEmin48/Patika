@@ -5,7 +5,7 @@ public class KDVHesapla {
 
 	public static void main(String[] args) {
 
-		double tutar, kdvOran = 0.18, kdvTutar, kdvliTutar, kdv;
+	double tutar, kdvOran = 0.18, kdvTutar, kdvliTutar, kdv;
         Scanner input = new Scanner(System.in);
         System.out.println("Ücret Tutarını Giriniz : ");
         tutar = input.nextDouble();
